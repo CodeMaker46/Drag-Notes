@@ -10,14 +10,6 @@ A MERN stack application for file sharing and collaboration within educational i
 - Real-time notifications for branch and course mates
 - Modern UI with Tailwind CSS
 
-## Project Structure
-
-```
-paaword/
-├── frontend/          # React frontend (Vite + Tailwind CSS)
-└── backend/           # Node.js + Express + MongoDB backend
-```
-
 ## Setup Instructions
 
 ### Frontend Setup
